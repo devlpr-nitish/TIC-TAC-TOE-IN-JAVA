@@ -1,6 +1,6 @@
 ﻿# Welcome to the Awesome Project!
 # TIC-TAC-TOE-IN-JAVA
 
-# X O 
-# O X 
-#     X
+# X O X
+# O X O
+# O O X
